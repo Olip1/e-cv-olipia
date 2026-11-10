@@ -30,3 +30,4 @@ $_ENV['VIEW_COMPILED_PATH'] = '/tmp/storage/framework/views';
 
 // Forward request to Laravel's public entrypoint
 require __DIR__ . '/../public/index.php';
+

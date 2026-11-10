@@ -49,3 +49,4 @@ class CvController extends Controller
         return back()->with('success', 'Terima kasih, pesan Anda berhasil dikirimkan! Olipia akan segera membalas melalui email atau WhatsApp.');
     }
 }
+
